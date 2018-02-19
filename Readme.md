@@ -1,3 +1,4 @@
+Manuscript: Information sharing for a coordination game in fluctuating environments
 -The code in this folder produces all the figures in the main text except for Figs 1,2, and 3. 
 -Basic naming conventions: any .m file ending in "figurescript" produces the figure simply by running
  that script. Some figurescripts load in previously generated data, for example in
@@ -7,3 +8,4 @@
 -"crop.m" is written by Andy Bliss Sept 8th, 2006. Revised May 31, 2012. This function cuts out whitespace
  in the resulting Matlab figure.
 - All other Matlab functions are written by Keith Paarporn
+[![DOI](https://zenodo.org/badge/122110989.svg)](https://zenodo.org/badge/latestdoi/122110989)
